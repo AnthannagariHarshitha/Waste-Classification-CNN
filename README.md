@@ -114,6 +114,3 @@ Once the model is trained, you can evaluate its performance using the test datas
 - Add advanced image augmentation techniques.
 - Implement real-time waste classification using a webcam.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
