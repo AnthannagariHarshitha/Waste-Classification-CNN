@@ -1,23 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Waste Management Using CNN Model
-
-# In[1]:
-
-
-pip install opencv-python
-
-
-# In[2]:
-
-
-pip install tensorflow
-
-
-# In[3]:
-
-
 #Importing neccessary libraries
 import numpy as np
 import pandas as pd
